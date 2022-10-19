@@ -1,5 +1,4 @@
 # ADS505-HealthCareCrossSelling
-##Final project for ADS505 examining health care insurance customer data for car insurance cross sell possibilities
 
 This is a final project for ADS-505: Business Analytics in conjunction with Connie Chow and Abanather Negusu
 
